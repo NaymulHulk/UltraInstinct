@@ -3,4 +3,4 @@ Utilized IBM's Natural Language Processing API (Watson) to run sentiment analysi
 Analyze user based on sentiment anaylysis results. 
 
 ## Authors
-Banin Abrar, Elman Reasat, Mahdi Khandaker, Safwan Sayef, Naymul Hossain Nafee.
+Banin Abrar, Elman Reasat, Mahdi Khandaker, Safwan Sayef, Naymul Hossain.
